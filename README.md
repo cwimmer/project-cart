@@ -13,17 +13,18 @@ This cart provides a convenient storage solution for multiple projects at your w
 ## Print Settings
 
 These parts have been successfully printed using [Voron Print Settings](https://docs.vorondesign.com/sourcing.html) in ASA.
-- **Upper shelf parts:** Orient with the long diagonal side on the print bed to avoid layer line separation.
-- **Lower shelf parts:** Place the large flat area on the print bed.
+- **Shelf parts:** Orient with the long diagonal side on the print bed to avoid layer line separation.
 ## Parts to Print
 - 12 × 2020 Shelf Bracket ([STEP](STEP)/[STL](STL)) (Mirror 6 of them.  Left are different from right.)
-- 4 × 2020 Front Bracket ([STEP](STEP)/[STL](STL))
+- 16 × 2020 Side Bracket ([STEP](STEP)/[STL](STL))
 
 # Assembly
 
 ## Bill of Materials
 
 See the [Bill of Materials](BOM.md) for a complete list of required parts. Most components are listed from McMaster for convenience; feel free to substitute equivalent items from other suppliers.
+
+The [2020 Corner Shelf Supports](https://github.com/cwimmer/2020-corner-shelf-support) are a part I designed.  You can produce your own or [contact me](https://the-playground.net/Whoami) if you would to purchase some.
 
 ## Assembly Instructions
 
@@ -34,7 +35,7 @@ Refer to the [CAD](CAD) diagram for detailed part orientation.
 - Tap both ends of all extrusions with an M6 tap; all joints rely on threaded ends.
 - Assemble the frame per CAD drawings:
   - Vertical members: 800 mm
-  - Width: 500 mm
+  - Width: 400 mm
   - Depth: 600 mm
 - Each corner joint uses a Corner Bracket and three M6 × 12 BHCS.
 
@@ -45,33 +46,50 @@ Refer to the [CAD](CAD) diagram for detailed part orientation.
 - Attach both the M5 drop nuts and M6 screw simultaneously to fasten the caster to the extrusion.
 - Repeat for all four casters.
 
-### Front Shelf Bracket
+### Middle Shelves
 
-Install the front shelf brackets on the bottom two extrusions with shelf support screws and M5 drop nuts.
-
-### Shelf Brackets
+#### Brackets
 
 Attach the shelf brackets to the vertical extrusions, spacing them so the top of each shelf is 200 mm above the one below.
 
-### Top Shelf
-
-- Secure the top shelf brackets to the top frame rails, near the center, using M5 × 12 mm screws and M5 drop nuts.
-- Turn the frame upside down and position it on the top shelf, leaving a 35 mm overhang on all sides.
-- Mark the bracket locations. Drill pilot holes in the MDF top.
-- Re-position the frame and secure it to the shelf with #6 x 3/4" wood screws.
-
-### Shelves
+#### Plywood
 
 Drop the shelves onto the brackets. Shelves fit loosely to allow for reconfiguration should you need to transport taller items.
+
+### Side Supports
+
+#### Brackets
+
+Attach the side brackets to the vertical extrusions, spacing them so they are 200 mm above the one below.
+
+#### Plywood
+
+Slide the thin strips of birch plywood into the side brackets.  The side supports fit loosely to allow removal if you need to load or unload the cart from the side.
+
+### Top/Bottom Shelves
+
+#### Brackets
+
+- Attach the four 2020 Corner Shelf Supports below the top frame using M5 Drop Nuts and M5 x 12mm SHCS.
+
+#### Plywood
+- Drop the top shelf into the top frome so that it rests on the 2020 Corner Shelf Supports.
+- Drop the bottom shelf into the bottom frame so that it rests on the casters.
 
 # Acknowledgements
 
 - [Corner Cube](https://grabcad.com/library/corner-cube-vslot-2020-3-ways-1) model by [Steepy](https://grabcad.com/steepy-1)
 - [Caster](https://www.mcmaster.com/2358t26/) model by McMaster
 - [Extrusion](https://www.mcmaster.com/5537T9) model by McMaster
-- [Corner Bracket](https://www.mcmaster.com/5537T231/) model by McMaster
 
 # ChangeLog
+## v1
+Initial revision
+## v2
+- Width changed from 610mm to 440mm
+- Top changed from 35mm overhangs to inset in frame
+- Bottom changed from 3mm birch plywood to 18mm MDF inset in frame
+- Side supports added
 
 # Images
 
