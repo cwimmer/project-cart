@@ -41,7 +41,7 @@ Refer to the [CAD](CAD) diagram for detailed part orientation.
 
 ### Casters
 
-- Thread two M5 Drop Nuts partially through each caster corner. Secure using an M5 washer and M5 × 10 mm SHCS.
+- Thread two M5 Drop Nuts partially through each caster corner. Secure using an M5 washer and M5 × 8 mm SHCS.
 - Remove a screw from an 800 mm vertical member at the corner. Replace it with an M6 × 25 mm screw and M6 washer, securing the caster.
 - Attach both the M5 drop nuts and M6 screw simultaneously to fasten the caster to the extrusion.
 - Repeat for all four casters.
