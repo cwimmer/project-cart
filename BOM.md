@@ -13,7 +13,7 @@
 | Caster Long Screws Washers | M6 Washers | M6 General Purpose Washers| [93475A250](https://www.mcmaster.com/93475A250/)| 4 |
 | Drop Nuts | 2020 M5 Drop in Nuts | 2020 M5 Drop nuts | https://www.amazon.com/dp/B01FOC6A8E | 52 |
 | Shelf Support Screws | M5 x 12mm SHCS | M5 × 0.8 mm thread 18-8 Stainless Steel Socket Head Cap Screws | [91292A125](https://www.mcmaster.com/91292A125) | 48 |
-| Shelves | 3mm (1/8") Baltic Birch or similar | 499mm x 629mm | https://www.woodworkerssource.com/plywood/18-baltic-birch-plywood-pack-choose-your-size.html | 3 |
+| Shelves | 3mm (1/8") Baltic Birch or similar | 399mm x 629mm | https://www.woodworkerssource.com/plywood/18-baltic-birch-plywood-pack-choose-your-size.html | 3 |
 | Side supports | 3mm (1/8") Baltic Birch or similar | 50mm x 599mm | https://www.woodworkerssource.com/plywood/18-baltic-birch-plywood-pack-choose-your-size.html | 3 |
 | Top/Bottom Shelves | 18mm (3/4") MDF or similar | 399mm x 599mm | https://www.woodworkerssource.com/mdf-34-free-shipping.html | 2 |
 | 2020 Corner Shelf Brackets | 2020 Corner Shelf Brackets | Custom joining plate for 2020 extrusions | https://github.com/cwimmer/2020-corner-shelf-support | 4 |
