@@ -4,6 +4,8 @@ The Project Cart is designed to hold [Euro Containers](https://en.wikipedia.org/
 
 ![Project Cart Rendering](IMG/project-cart-overall-2.png)
 
+Please use the latest released version on the right.  The main branch might have partial changes committed. 
+
 # Summary
 
 This cart provides a convenient storage solution for multiple projects at your workbench. To switch projects, simply return parts to their containers or place them on the cart, then roll it away. Roll in another cart to continue working seamlessly.
