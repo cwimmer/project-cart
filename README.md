@@ -17,8 +17,12 @@ This cart provides a convenient storage solution for multiple projects at your w
 These parts have been successfully printed using [Voron Print Settings](https://docs.vorondesign.com/sourcing.html) in ASA.
 - **Shelf parts:** Orient with the long diagonal side on the print bed to avoid layer line separation.
 ## Parts to Print
-- 12 × 2020 Shelf Bracket ([STEP](STEP)/[STL](STL)) (Mirror 6 of them.  Left are different from right.)
+- 12 × 2020 Shelf Bracket ([STEP](STEP)/[STL](STL))
+  - Mirror 6 of them.  Left are different from right.
 - 16 × 2020 Side Bracket ([STEP](STEP)/[STL](STL))
+- 16 x 2020 Latch ([STEP](STEP))
+  - Must split the STEP file into object to print
+  - Supports are integrated into the model and must be removed before installation
 
 # Assembly
 
@@ -78,6 +82,9 @@ Slide the thin strips of birch plywood into the side brackets.  The side support
 - Drop the top shelf into the top frome so that it rests on the 2020 Corner Shelf Supports.
 - Drop the bottom shelf into the bottom frame so that it rests on the casters.
 
+### Latches
+Attach latches to both sides front and back just above shelves.
+
 # Acknowledgements
 
 - [Corner Cube](https://grabcad.com/library/corner-cube-vslot-2020-3-ways-1) model by [Steepy](https://grabcad.com/steepy-1)
@@ -85,13 +92,15 @@ Slide the thin strips of birch plywood into the side brackets.  The side support
 - [Extrusion](https://www.mcmaster.com/5537T9) model by McMaster
 
 # ChangeLog
-## v1
-Initial revision
+## v3
+- Added latch to secure containers in front and rear.
 ## v2
 - Width changed from 610mm to 440mm
 - Top changed from 35mm overhangs to inset in frame
 - Bottom changed from 3mm birch plywood to 18mm MDF inset in frame
 - Side supports added
+## v1
+Initial revision
 
 # Images
 
