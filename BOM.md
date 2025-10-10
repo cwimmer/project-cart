@@ -1,4 +1,6 @@
 
+Most components are listed from McMaster for convenience; feel free to substitute equivalent items from other suppliers.
+
 # Non-fasteners
 | Common Name | Part Name | Part Description | Part Number | Quantity |
 | ---- | --- | --- | --- | --- |
@@ -13,7 +15,6 @@
 | 2020 Corner Shelf Brackets | 2020 Corner Shelf Brackets | Custom joining plate for 2020 extrusions | https://github.com/cwimmer/2020-corner-shelf-support | 4 |
 
 # Fasteners
-TODO: Update part numbers
 | Common Name | Part Name | Part Description | Part Number | Quantity |
 | ---- | --- | --- | --- | --- |
 | **M6** |||||
@@ -24,13 +25,14 @@ TODO: Update part numbers
 |  | M6 Washers | M6 General Purpose Washers| [93475A250](https://www.mcmaster.com/93475A250/)| 4 Total |
 | Caster Long Washers | M6 Washers | | | 4 |
 | **M5** |
-|  | M5 x 8mm SHCS | M5 × 0.8 mm thread 18-8 Stainless Steel Socket Head Cap Screws | [91292A191](https://www.mcmaster.com/91292A191/) | 20 Total |
+|  | M5 x 8mm SHCS | M5 × 0.8 mm thread 18-8 Stainless Steel Socket Head Cap Screws | [91292A191](https://www.mcmaster.com/91292A191/) | 24 Total |
 | Caster Short | M5 x 8mm SHCS | | | 8 |
 | 2020 Corner Shelf Brackets | M5 x 8mm SHCS | | | 16 |
-|  | M5 x 12mm SHCS | M5 × 0.8 mm thread 18-8 Stainless Steel Socket Head Cap Screws | [TODO](https://www.mcmaster.com/???????/) | 12 Total |
+|  | M5 x 12mm SHCS | M5 × 0.8 mm thread 18-8 Stainless Steel Socket Head Cap Screws | [91292A125](https://www.mcmaster.com/91292A125/) | 60 Total |
+| Shelf Support Screws | M5 x 12mm SHCS |  |  | 48 |
 | Front/Rear shelf supports | M5 x 12mm SHCS | | | 12 |
-|  | M5 x 14mm SHCS | M5 × 0.8 mm thread 18-8 Stainless Steel Socket Head Cap Screws | [TODO](https://www.mcmaster.com/???????/) | 16 Total |
-| Side supports | M5 x 12mm SHCS | | | 16 |
+|  | M5 x 14mm SHCS | M5 × 0.8 mm thread 18-8 Stainless Steel Socket Head Cap Screws | [91292A058](https://www.mcmaster.com/91292A058/) | 16 Total |
+| Side supports | M5 x 14mm SHCS | | | 16 |
 |  | M5 Washers | M5 General Purpose Washers| [93475A240](https://www.mcmaster.com/93475A240/)| 8 |
 | Caster Short Washers | M5 Washers | | | 8 Total |
 | | 2020 M5 Drop in Nuts | 2020 M5 Drop nuts | https://www.amazon.com/dp/B01FOC6A8E | 52 Total|
@@ -38,9 +40,8 @@ TODO: Update part numbers
 | 2020 Corner Shelf Brackets | 2020 M5 Drop nuts | | | 16 |
 | Front/Rear shelf supports | 2020 M5 Drop nuts | | | 12 |
 | Side supports | 2020 M5 Drop nuts | | | 16 |
-| Shelf Support Screws | M5 x 12mm SHCS | M5 × 0.8 mm thread 18-8 Stainless Steel Socket Head Cap Screws | [91292A125](https://www.mcmaster.com/91292A125) | 48 |
 | **M4**|
-|  | M4 x 10mm HHCS | M4 × 0.? mm thread 18-8 Stainless Steel Socket Head Cap Screws | [TODO](https://www.mcmaster.com/?????/) | 16 Total |
+|  | M4 x 10mm FHCS | M4 × 0.7 mm thread 18-8 Stainless Steel Socket Head Cap Screws | [91292A116](https://www.mcmaster.com/91292A116/) | 16 Total |
 | Latches | M4 x 10mm FHCS | | | 16 |
-| | 2020 M4 Drop in Nuts | 2020 M4 Drop nuts | https://www.amazon.com/dp/TODO | 16 Total|
+| | 2020 M4 Drop in Nuts | 2020 M4 Drop nuts | https://www.amazon.com/dp/B01FOC6ADE | 16 Total|
 | Latches | 2020 M4 Drop nuts | | | 16 |

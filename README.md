@@ -4,7 +4,9 @@ The Project Cart is designed to hold [Euro Containers](https://en.wikipedia.org/
 
 ![Project Cart Rendering](IMG/project-cart-overall-2.png)
 
-Please use the latest released version on the right.  The main branch might have partial changes committed. 
+Please use the [latest released version](https://github.com/cwimmer/project-cart/tree/v3) on the right.  The main branch might have partial changes committed. 
+
+[comment]: #TODO: (Always update the release tag here when doing a release.)
 
 # Summary
 
@@ -94,6 +96,9 @@ Attach latches to both sides front and back just above shelves.
 # ChangeLog
 ## v3
 - Added latch to secure containers in front and rear.
+  - Latches are removable
+  - Slide open and closed
+  - Held in place by compliant mechanism
 ## v2
 - Width changed from 610mm to 440mm
 - Top changed from 35mm overhangs to inset in frame
@@ -109,6 +114,7 @@ Initial revision
 ![Overall 3](IMG/project-cart-overall-3.png)
 ![Detail 1](IMG/project-cart-detail-1.png)
 ![Detail 2](IMG/project-cart-detail-2.png)
+![Detail 3](IMG/project-cart-detail-3.png)
 
 # License
 
