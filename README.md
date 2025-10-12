@@ -30,7 +30,7 @@ These parts have been successfully printed using [Voron Print Settings](https://
 
 ## Bill of Materials
 
-See the [Bill of Materials](BOM.md) for a complete list of required parts. Most components are listed from McMaster for convenience; feel free to substitute equivalent items from other suppliers.
+See the [Bill of Materials](BOM.md) for a complete list of required parts. [Here](on_components.md) is a discussion of materials and suppliers.
 
 The [2020 Corner Shelf Supports](https://github.com/cwimmer/2020-corner-shelf-support) are a part I designed.  You can produce your own or [contact me](https://the-playground.net/Whoami) if you would to purchase some.
 
