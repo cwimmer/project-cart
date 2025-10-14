@@ -25,6 +25,7 @@ These parts have been successfully printed using [Voron Print Settings](https://
 - 16 x 2020 Latch ([STEP](STEP))
   - Must split the STEP file into object to print
   - Supports are integrated into the model and must be removed before installation
+- 1 x Shelf Bracket Spacer([STEP](STEP)/[STL](STL))
 
 # Assembly
 
@@ -60,6 +61,8 @@ Refer to the [CAD](CAD) diagram for detailed part orientation.
 
 Attach the shelf brackets to the vertical extrusions, spacing them so the top of each shelf is 200 mm above the one below.
 
+You may use the printed Shelf Bracket Spacer to make installation easier.  Place the spacer on the front of an extrusion resting on top of the plywood of the shelf below.  Install the next shelf bracket by resting it on top of the spacer.
+
 #### Plywood
 
 Drop the shelves onto the brackets. Shelves fit loosely to allow for reconfiguration should you need to transport taller items.
@@ -94,6 +97,9 @@ Attach latches to both sides front and back just above shelves.
 - [Extrusion](https://www.mcmaster.com/5537T9) model by McMaster
 
 # ChangeLog
+## v4
+- Added shelf bracket spacer to make shelf support installation easier
+- Combined side support and shelf support brackets
 ## v3
 - Added latch to secure containers in front and rear.
   - Latches are removable
