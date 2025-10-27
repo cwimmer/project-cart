@@ -1,0 +1,21 @@
+{
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "gruntfuggly.todo-tree",
+        "slevesque.vscode-3dviewer",
+        "davidanson.vscode-markdownlint",
+        "appliedengdesign.vscode-gcode-syntax",
+        "tomoki1207.pdf"
+      ],
+      "settings": {
+        "go.toolsManagement.autoUpdate": true
+      }
+    }
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {}
+  },
+  "image": "ghcr.io/cwimmer/devcontainer:latest",
+  "name": "cad-repo"
+}
