@@ -6,7 +6,7 @@ The Project Cart is designed to hold [Euro Containers](https://en.wikipedia.org/
 
 Please use the [latest released version](https://github.com/cwimmer/project-cart/releases/latest).  The main branch might have partial changes committed.
 
-## Tools and Skills required
+## Capabilities required to build this project
 
 - Metric hex wrenches
 - Large square
